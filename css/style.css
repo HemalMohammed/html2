@@ -1,0 +1,147 @@
+h2{
+	border-width: 5px;
+	border-color: black;
+	border-radius: 15px ;
+	border-style:solid;
+	
+
+}
+
+h3{
+	background-color: DarkCyan;
+	color: white;
+}
+p{
+	background-color: blue;
+	color: white;
+	text-align: center;
+	font-size: x-large;
+
+}
+
+/*.other-conainer{
+  float: left;
+	width: 60%;
+	height: 200px;
+	backgroud-color: DarkCyan;
+}
+.contain1{
+	background-color:aqua;
+	height:100px;
+	float: left;
+	width: 20%
+}
+.contact{
+	float: left;
+	width: 60%;
+	min-height: 200px;
+	backgroud-color:green;
+}*/
+
+.beauty{
+		text-align: center;
+		color: white;
+		background-color: green;
+		font-size: xx-large;
+}
+
+	#name{
+		text-align: center;
+		color: yellow;
+		background-color: green;
+		font-size:x-large;
+
+	}
+	.box{
+		height: 80px;
+		width: 400px;
+		background-color:DarkCyan ;
+		color: white;
+	}
+
+	.box1{
+		width: 20%;
+		height: 10rem;
+		color: white;
+		text-align: center;
+		background-color: rgb(00, 00, 00);
+	}
+
+	.box2{
+		width: 20%;
+		height: 10rem;
+		color: white;
+		text-align: center;
+		background-color: rgba(00, 00, 00,.30);
+	}
+	.box3{
+		width: 150px;
+		height: 150px;
+		
+	}
+	.green{
+		background-color: green;
+		margin-top: 40px;
+		margin-bottom: 28px;
+		margin-left: 50px;
+		margin-right: 50px;
+		padding: 50px;
+
+	}
+	.yellow{
+		background-color: yellow;
+		margin: 41px 28px 50px 48px;
+	}
+	.design{
+		color: green;
+		
+		font-size: x-large;
+		text-align: center;
+
+	
+	}
+	.ifram{
+		font-size: x-large;
+		color: red;
+
+	}
+	.ifram1{
+		font-size: x-large;
+		color: DarkCyan;
+		
+	}
+	.ifram2{
+		font-size: x-large;
+		color: red;
+		
+	}
+	.ifram3{
+		font-size: x-large;
+		color: DarkCyan;
+		
+	}
+	.ifram4{
+		font-size: x-large;
+		color: red;
+		
+	}
+	.ifram5{
+		font-size: x-large;
+		color: darkcyan;
+		
+	}
+	.ful{
+		font-size: x-large;
+		color: red;
+		}
+		.ful1{
+		font-size: x-large;
+		color: darkcyan;
+		}
+	.ful2{
+		font-size: x-large;
+		color: red;
+		}
+
+		
+
